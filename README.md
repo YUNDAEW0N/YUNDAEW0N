@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome%20YUNDAEWON's%20github👋&fontSize=45)
 
 
-![YUNDAEWON's GitHub stats](https://github-readme-stats.vercel.app/api?username=YUNDAEW0N&show_icons=true&theme=radical)  / [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUNDAEW0N)](https://github.com/anuraghazra/github-readme-stats)  
+![YUNDAEWON's GitHub stats](https://github-readme-stats.vercel.app/api?username=YUNDAEW0N&show_icons=true&theme=radical)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUNDAEW0N)](https://github.com/anuraghazra/github-readme-stats)  
 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=qjsro95)](https://solved.ac/qjsro95)
