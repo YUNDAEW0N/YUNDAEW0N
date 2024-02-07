@@ -9,7 +9,7 @@
 
 
 ## 💻 DEV's log 💻
-[![velog](https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white)](https://www.notion.so/YUNDAEWON-c16ee75416954cd1aa3dd15e4714df1e)
+[![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/YUNDAEWON-c16ee75416954cd1aa3dd15e4714df1e)
 
 
 
