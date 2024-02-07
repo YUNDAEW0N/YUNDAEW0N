@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome%20YUNDAEWON's%20github👋&fontSize=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome%20YUNDAEWON's%20github👋&fontSize=45)
 
 
 ![YUNDAEWON's GitHub stats](https://github-readme-stats.vercel.app/api?username=YUNDAEW0N&show_icons=true&theme=radical)
